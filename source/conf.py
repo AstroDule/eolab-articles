@@ -47,7 +47,6 @@ urls_dict = get_files(
        "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/accessusings3cmd",     
        "https://github.com/CloudFerro/cf3-doc/blob/main/source/datavolume/attachvolumetovmlessthan2tb",   
        "https://github.com/CloudFerro/cf3-doc/blob/main/source/eodata/accesslisteousingboto3",  
-       "https://github.com/CloudFerro/cf3-doc/blob/main/source/eodata/cantaccesseodata",  
        "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/accessvmfromconsole",  
        "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/clonevm",  
        "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/fixconsole",  
