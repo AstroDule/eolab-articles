@@ -49,9 +49,6 @@ urls_dict = get_files(
        "https://github.com/CloudFerro/cf3-doc/blob/main/source/eodata/accesslisteousingboto3",  
        "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/accessvmfromconsole",  
        "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/clonevm",  
-       "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/fixconsole",  
-       "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/howtocreatenewlinuxgpu",  
-       "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/howtousedocker",  
    
     ]
 )
