@@ -53,8 +53,7 @@ urls_dict = get_files(
        "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/fixconsole",  
        "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/howtocreatenewlinuxgpu",  
        "https://github.com/CloudFerro/cf3-doc/blob/main/source/general/howtousedocker",  
-     
-        
+   
     ]
 )
 
