@@ -1,5 +1,5 @@
-Welcome to WAW3-1 & Kubernetes documentation!
-=============================================
+Welcome to EO Lab documentation!
+================================
 
 Guide:
 ^^^^^^
