@@ -15,9 +15,6 @@ Guide:
    accesslisteousingboto3
    accessvmfromconsole
    clonevm
-   fixconsole
-   howtocreatenewlinuxgpu
-   howtousedocker
 
 
 Indices and tables
